@@ -1,1 +1,1 @@
-# child-car-seat-rental
+Сайт проката, аренды детского автокресла и бустеров. https://child-car-seat-rental.infinityfreeapp.com
